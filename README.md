@@ -1,1 +1,0 @@
-# kubernets_multi_tire_application
